@@ -1,6 +1,6 @@
 # Digital Asset Manager
 
-![Digital Asset Manager](https://github.com/2ByteCode/digital-asset-manager/tree/main/screenshots/banner-1544x500.png)
+![Digital Asset Manager](https://github.com/2ByteCode/digital-asset-manager/blob/main/screenshots/banner-1544x500.png)
 
 **Contributors:** [2bytecode](https://profiles.wordpress.org/2bytecode/), [tassawerhussain](https://profiles.wordpress.org/tassawerhussain/)<br />
 **Donate link:** [Buy Me A Coffee](https://www.buymeacoffee.com/tassawer)<br />
@@ -98,31 +98,31 @@ This section describes how to install the plugin and get it working.
 
 **Asset List Screen - WP List Table for display list of assets added with some custom columns.**
 
-![Asset List Screen - WP List Table for display list of assets added with some custom columns.](https://github.com/2ByteCode/digital-asset-manager/tree/main/screenshots/screenshot-1.png)
+![Asset List Screen - WP List Table for display list of assets added with some custom columns.](https://github.com/2ByteCode/digital-asset-manager/blob/main/screenshots/screenshot-1.png)
 
 **Asset Edit Screen - Screen to edit the added asset to demonstrate what you can add in the field.**
 
-![Asset Edit Screen - Screen to edit the added asset to demonstrate what you can add in the field.](https://github.com/2ByteCode/digital-asset-manager/tree/main/screenshots/screenshot-2.png)
+![Asset Edit Screen - Screen to edit the added asset to demonstrate what you can add in the field.](https://github.com/2ByteCode/digital-asset-manager/blob/main/screenshots/screenshot-2.png)
 
 **Add New Asset Screen - Display the asset add screen to demonstrate the available fields to add the information related to the asset.**
 
-![Add New Asset Screen - Display the asset add screen to demonstrate the available fields to add the information related to the asset.](https://github.com/2ByteCode/digital-asset-manager/tree/main/screenshots/screenshot-3.png)
+![Add New Asset Screen - Display the asset add screen to demonstrate the available fields to add the information related to the asset.](https://github.com/2ByteCode/digital-asset-manager/blob/main/screenshots/screenshot-3.png)
 
 **Asset Type List - Asset type taxonomy list screen where added type can be seen.**
 
-![Asset Type List - Asset type taxonomy list screen where added type can be seen.](https://github.com/2ByteCode/digital-asset-manager/tree/main/screenshots/screenshot-4.png)
+![Asset Type List - Asset type taxonomy list screen where added type can be seen.](https://github.com/2ByteCode/digital-asset-manager/blob/main/screenshots/screenshot-4.png)
 
 **Token List Screen - List of added Envato Token attached with the existing assets.**
 
-![Token List Screen - List of added Envato Token attached with the existing assets.](https://github.com/2ByteCode/digital-asset-manager/tree/main/screenshots/screenshot-5.png)
+![Token List Screen - List of added Envato Token attached with the existing assets.](https://github.com/2ByteCode/digital-asset-manager/blob/main/screenshots/screenshot-5.png)
 
 **Settings Page - Settings to configure the visibility type of the respective post type and taxonomies.**
 
-![Settings Page - Settings to configure the visibility type of the respective post type and taxonomies.](https://github.com/2ByteCode/digital-asset-manager/tree/main/screenshots/screenshot-6.png)
+![Settings Page - Settings to configure the visibility type of the respective post type and taxonomies.](https://github.com/2ByteCode/digital-asset-manager/blob/main/screenshots/screenshot-6.png)
 
 **Asset Tags List - Asset tags taxonomy list screen where added tags can be seen.**
 
-![Asset Tags List - Asset tags taxonomy list screen where added tags can be seen.](https://github.com/2ByteCode/digital-asset-manager/tree/main/screenshots/screenshot-7.png)
+![Asset Tags List - Asset tags taxonomy list screen where added tags can be seen.](https://github.com/2ByteCode/digital-asset-manager/blob/main/screenshots/screenshot-7.png)
 
 
 ## Frequently Asked Questions
